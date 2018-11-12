@@ -1,0 +1,7 @@
+{
+  "name": "jwt",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
